@@ -1,4 +1,4 @@
-import {c, ctx} from "../main.js";
+import {c, ctx} from "./main.js";
 
 class Player {
     constructor(x,y){
