@@ -1,4 +1,4 @@
-import {c, ctx} from "../main.js";
+import {c, ctx} from "./main.js";
 
 class Case {
     constructor(x,y,block,isObjective,score){
